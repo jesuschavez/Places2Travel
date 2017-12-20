@@ -1,6 +1,6 @@
 # Places2Travel
 
-Weekly project - **Swift** app showing diff travel destinations.
+Weekly project - **iOS** app showing diff travel destinations.
 
 **App Features:**
 
